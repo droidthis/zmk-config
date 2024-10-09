@@ -24,3 +24,4 @@ include:
     board: nice_nano
   - shield: settings_reset
     board: nice_nano
+  - board: kbdfans_tofu65_v2
